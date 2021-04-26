@@ -1,3 +1,4 @@
+
 # HTML CSS Code Refactor
 
 ## Changes
@@ -22,4 +23,3 @@
   - Footer h2 > Footer h4
 * Changing the title of the page
   - website > Horiseon
-
