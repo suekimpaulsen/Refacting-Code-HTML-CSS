@@ -1,4 +1,7 @@
-# Changes
+
+# HTML CSS Code Refactor
+
+## Changes
 * Using correct semantic HTML elements than `div`
   - `Header`
   - `Footer`
